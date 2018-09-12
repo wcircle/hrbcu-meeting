@@ -1,0 +1,23 @@
+.page{
+    width:1000px;
+    margin: 0 auto;
+}
+.sy_top {
+    width: 100%;
+    height: 162px;
+    background: #619dff;
+}
+.sy_top_nav{
+    width: 100%;
+    margin: 0 auto;
+    height: 162px;
+}
+.sy_top_nav img{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+img {
+    border: 0;
+}

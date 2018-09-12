@@ -1,0 +1,69 @@
+@charset "utf-8";
+.top_left{
+    width:105px;
+}
+.top_middel{
+    width:330px;
+}
+.top_right2{
+    width:210px;
+    text-align:left;
+}
+.top_login{
+    width:115px;
+    height:30px;
+    margin-top:20px;
+    padding-left:20px;
+    background-position:-175px -487px;
+    zoom:1;
+    white-space:nowrap;
+    word-break:break-all;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+.top_right p{
+    margin-top:10px;
+
+}
+
+.submit{
+    background-color: #619dff;
+    color: white;
+    width:90px;
+    height:31px;
+    background-position:-50px -286px;
+    border:none;
+    margin:5px 0 5px 50px;;
+    letter-spacing:1.5px;
+    cursor:pointer;
+}
+.view{
+    background-position:-50px -376px;
+    margin:5px 0 5px 5px;;
+}
+#login label{
+    height:30px;
+    line-height:24px;
+    display:block;
+}
+.login_ipt{
+    border:1px solid #0154a0;
+    height:20px;
+    vertical-align:middle;
+}
+.c_remark{
+    padding-left:40px;
+    text-indent:-40px;
+
+}
+#notice{
+    padding-left:30px !important;
+    height:285px !important;;
+    overflow:auto;
+}
+#notice li{
+    list-style:decimal !important;
+    background:none;
+    margin-left:0;
+    padding-left:0;
+}
